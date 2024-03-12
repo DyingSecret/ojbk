@@ -1,1 +1,6 @@
-# ojbk
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xaf799E976503C8821F1c8c6912c5d0909F86292f'
+quorum: 1
